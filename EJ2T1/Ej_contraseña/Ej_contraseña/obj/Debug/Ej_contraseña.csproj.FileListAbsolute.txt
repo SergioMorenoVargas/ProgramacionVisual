@@ -1,0 +1,11 @@
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\EJ2T1\Ej_contraseña\Ej_contraseña\bin\Debug\Ej_contraseña.exe.config
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\EJ2T1\Ej_contraseña\Ej_contraseña\bin\Debug\Ej_contraseña.exe
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\EJ2T1\Ej_contraseña\Ej_contraseña\bin\Debug\Ej_contraseña.pdb
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\EJ2T1\Ej_contraseña\Ej_contraseña\obj\Debug\Ej_contraseña.csproj.AssemblyReference.cache
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\EJ2T1\Ej_contraseña\Ej_contraseña\obj\Debug\Ej_contraseña.DlgContraseña.resources
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\EJ2T1\Ej_contraseña\Ej_contraseña\obj\Debug\Ej_contraseña.Form1.resources
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\EJ2T1\Ej_contraseña\Ej_contraseña\obj\Debug\Ej_contraseña.Properties.Resources.resources
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\EJ2T1\Ej_contraseña\Ej_contraseña\obj\Debug\Ej_contraseña.csproj.GenerateResource.cache
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\EJ2T1\Ej_contraseña\Ej_contraseña\obj\Debug\Ej_contraseña.csproj.CoreCompileInputs.cache
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\EJ2T1\Ej_contraseña\Ej_contraseña\obj\Debug\Ej_contraseña.exe
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\EJ2T1\Ej_contraseña\Ej_contraseña\obj\Debug\Ej_contraseña.pdb
