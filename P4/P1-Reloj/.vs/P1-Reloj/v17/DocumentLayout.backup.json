@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|c:\\users\\juego\\desktop\\progravisual\\p3\\p1-reloj\\p1-reloj\\relojdigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|solutionrelative:p1-reloj\\relojdigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|c:\\users\\juego\\desktop\\progravisual\\p3\\p1-reloj\\p1-reloj\\dlgeliminarzona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|solutionrelative:p1-reloj\\dlgeliminarzona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\p1-reloj\\relojdigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|solutionrelative:p1-reloj\\relojdigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|c:\\users\\juego\\desktop\\progravisual\\p3\\p1-reloj\\p1-reloj\\dlgeliminarzona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|solutionrelative:p1-reloj\\dlgeliminarzona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\p1-reloj\\dlgdatoszona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|solutionrelative:p1-reloj\\dlgdatoszona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\p1-reloj\\dlgdatoszona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|solutionrelative:p1-reloj\\dlgdatoszona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\p1-reloj\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|solutionrelative:p1-reloj\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\p1-reloj\\edithora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|solutionrelative:p1-reloj\\edithora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\p1-reloj\\relojdigital.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|solutionrelative:p1-reloj\\relojdigital.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\p1-reloj\\relojanalogico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|solutionrelative:p1-reloj\\relojanalogico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\p1-reloj\\relojanalogico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|solutionrelative:p1-reloj\\relojanalogico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\p1-reloj\\acercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|solutionrelative:p1-reloj\\acercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\p1-reloj\\relojanalogico.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB02A50F-FF31-4F22-ACD9-AC978B0176FE}|P1-Reloj\\P1-Reloj.csproj|solutionrelative:p1-reloj\\relojanalogico.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RelojDigital.cs",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\RelojDigital.cs",
+              "RelativeDocumentMoniker": "P1-Reloj\\RelojDigital.cs",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\RelojDigital.cs",
+              "RelativeToolTip": "P1-Reloj\\RelojDigital.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAnwKIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T10:26:52.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DlgEliminarZona.cs",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\DlgEliminarZona.cs",
+              "RelativeDocumentMoniker": "P1-Reloj\\DlgEliminarZona.cs",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\DlgEliminarZona.cs",
+              "RelativeToolTip": "P1-Reloj\\DlgEliminarZona.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T09:43:07.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DlgEliminarZona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\DlgEliminarZona.cs",
+              "RelativeDocumentMoniker": "P1-Reloj\\DlgEliminarZona.cs",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\DlgEliminarZona.cs [Dise\u00F1o]",
+              "RelativeToolTip": "P1-Reloj\\DlgEliminarZona.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T09:41:29.804Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelojDigital.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\RelojDigital.cs",
+              "RelativeDocumentMoniker": "P1-Reloj\\RelojDigital.cs",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\RelojDigital.cs [Dise\u00F1o]",
+              "RelativeToolTip": "P1-Reloj\\RelojDigital.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T14:28:25.494Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditHora.cs",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\EditHora.cs",
+              "RelativeDocumentMoniker": "P1-Reloj\\EditHora.cs",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\EditHora.cs",
+              "RelativeToolTip": "P1-Reloj\\EditHora.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T14:41:00.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DlgDatosZona.cs",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\DlgDatosZona.cs",
+              "RelativeDocumentMoniker": "P1-Reloj\\DlgDatosZona.cs",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\DlgDatosZona.cs",
+              "RelativeToolTip": "P1-Reloj\\DlgDatosZona.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T15:11:05.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DlgDatosZona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\DlgDatosZona.cs",
+              "RelativeDocumentMoniker": "P1-Reloj\\DlgDatosZona.cs",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\DlgDatosZona.cs [Dise\u00F1o]",
+              "RelativeToolTip": "P1-Reloj\\DlgDatosZona.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T14:48:17.251Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RelojDigital.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\RelojDigital.Designer.cs",
+              "RelativeDocumentMoniker": "P1-Reloj\\RelojDigital.Designer.cs",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\RelojDigital.Designer.cs",
+              "RelativeToolTip": "P1-Reloj\\RelojDigital.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:41:29.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "P1-Reloj\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\Properties\\Resources.resx",
+              "RelativeToolTip": "P1-Reloj\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-25T09:43:09.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelojAnalogico.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\RelojAnalogico.cs",
+              "RelativeDocumentMoniker": "P1-Reloj\\RelojAnalogico.cs",
+              "ToolTip": "C:\\Users\\anadi\\Desktop\\uni\\2026-2027\\PROGRAMACI\u00D3N VISUAL\\Laboratorio\\ProgramacionVisual2627\\P3\\P1-Reloj\\P1-Reloj\\RelojAnalogico.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\anadi\\Desktop\\uni\\2026-2027\\PROGRAMACI\u00D3N VISUAL\\Laboratorio\\ProgramacionVisual2627\\P3\\P1-Reloj\\P1-Reloj\\RelojAnalogico.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T10:48:12.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelojAnalogico.cs",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\RelojAnalogico.cs",
+              "RelativeDocumentMoniker": "P1-Reloj\\RelojAnalogico.cs",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\RelojAnalogico.cs",
+              "RelativeToolTip": "P1-Reloj\\RelojAnalogico.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T10:48:14.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AcercaDe.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\AcercaDe.cs",
+              "RelativeDocumentMoniker": "P1-Reloj\\AcercaDe.cs",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\ANAYYO\\ProgramacionVisual2627\\P3\\P1-Reloj\\P1-Reloj\\AcercaDe.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\ANAYYO\\ProgramacionVisual2627\\P3\\P1-Reloj\\P1-Reloj\\AcercaDe.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T18:00:46.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RelojAnalogico.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\RelojAnalogico.Designer.cs",
+              "RelativeDocumentMoniker": "P1-Reloj\\RelojAnalogico.Designer.cs",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\P3\\P1-Reloj\\P1-Reloj\\RelojAnalogico.Designer.cs",
+              "RelativeToolTip": "P1-Reloj\\RelojAnalogico.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T10:36:16.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

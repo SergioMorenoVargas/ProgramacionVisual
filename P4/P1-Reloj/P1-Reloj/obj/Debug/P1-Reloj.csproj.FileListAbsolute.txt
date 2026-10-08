@@ -1,0 +1,94 @@
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\P1\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe.config
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\P1\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\P1\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.pdb
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\P1\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.AssemblyReference.cache
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\P1\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.RelojDigital.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\P1\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.Properties.Resources.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\P1\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.GenerateResource.cache
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\P1\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.CoreCompileInputs.cache
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\P1\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\P1\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.pdb
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\P1\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe.config
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\P1\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.AcercaDe.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P1\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe.config
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P1\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P1\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.pdb
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P1\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.AssemblyReference.cache
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P1\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe.config
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P1\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.AcercaDe.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P1\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.RelojDigital.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P1\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.Properties.Resources.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P1\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.GenerateResource.cache
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P1\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.CoreCompileInputs.cache
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P1\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P1\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.pdb
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P1\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.RelojAnalogico.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe.config
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.pdb
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.AssemblyReference.cache
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe.config
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.AcercaDe.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.RelojAnalogico.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.RelojDigital.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.Properties.Resources.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.GenerateResource.cache
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.CoreCompileInputs.cache
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.pdb
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe.config
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.pdb
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.AssemblyReference.cache
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe.config
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.AcercaDe.resources
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.RelojAnalogico.resources
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.RelojDigital.resources
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.Properties.Resources.resources
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.GenerateResource.cache
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.CoreCompileInputs.cache
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P2\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.pdb
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe.config
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.pdb
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.AssemblyReference.cache
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.AcercaDe.resources
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.RelojAnalogico.resources
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.RelojDigital.resources
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.Properties.Resources.resources
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.GenerateResource.cache
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.CoreCompileInputs.cache
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.pdb
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe.config
+C:\Users\juego\Desktop\PrograVisual\ANAYYO\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.DlgDatosZona.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe.config
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.pdb
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.AssemblyReference.cache
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe.config
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.AcercaDe.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.DlgDatosZona.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.RelojAnalogico.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.RelojDigital.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.Properties.Resources.resources
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.GenerateResource.cache
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.CoreCompileInputs.cache
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe
+C:\Users\anadi\Desktop\uni\2026-2027\PROGRAMACIÓN VISUAL\Laboratorio\ProgramacionVisual2627\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.pdb
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe.config
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.exe
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\bin\Debug\P1-Reloj.pdb
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.AssemblyReference.cache
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe.config
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.AcercaDe.resources
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.DlgDatosZona.resources
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.RelojAnalogico.resources
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.RelojDigital.resources
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.Properties.Resources.resources
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.GenerateResource.cache
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.csproj.CoreCompileInputs.cache
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.exe
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\obj\Debug\P1-Reloj.pdb
+C:\Users\juego\Desktop\PrograVisual\P3\P1-Reloj\P1-Reloj\obj\Debug\P1_Reloj.DlgEliminarZona.resources
