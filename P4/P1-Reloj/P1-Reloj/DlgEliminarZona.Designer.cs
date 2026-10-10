@@ -41,6 +41,7 @@
             // 
             // bt_Cancelar
             // 
+            this.bt_Cancelar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.bt_Cancelar.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.bt_Cancelar.Location = new System.Drawing.Point(637, 182);
             this.bt_Cancelar.Name = "bt_Cancelar";
@@ -51,15 +52,18 @@
             // 
             // bt_Aceptar
             // 
+            this.bt_Aceptar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.bt_Aceptar.Location = new System.Drawing.Point(637, 151);
             this.bt_Aceptar.Name = "bt_Aceptar";
             this.bt_Aceptar.Size = new System.Drawing.Size(75, 23);
             this.bt_Aceptar.TabIndex = 17;
             this.bt_Aceptar.Text = "Aceptar";
             this.bt_Aceptar.UseVisualStyleBackColor = true;
+            this.bt_Aceptar.Click += new System.EventHandler(this.bt_Aceptar_Click);
             // 
             // label4
             // 
+            this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(411, 253);
@@ -70,6 +74,7 @@
             // 
             // label3
             // 
+            this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(88, 253);
@@ -90,6 +95,7 @@
             // 
             // ct_Diferencia
             // 
+            this.ct_Diferencia.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.ct_Diferencia.Location = new System.Drawing.Point(242, 253);
             this.ct_Diferencia.Name = "ct_Diferencia";
             this.ct_Diferencia.ReadOnly = true;
@@ -99,15 +105,20 @@
             // 
             // lb_Zonas
             // 
+            this.lb_Zonas.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.lb_Zonas.FormattingEnabled = true;
             this.lb_Zonas.ItemHeight = 16;
             this.lb_Zonas.Location = new System.Drawing.Point(167, 72);
             this.lb_Zonas.Name = "lb_Zonas";
             this.lb_Zonas.Size = new System.Drawing.Size(440, 148);
             this.lb_Zonas.TabIndex = 20;
+            this.lb_Zonas.SelectedIndexChanged += new System.EventHandler(this.lb_Zonas_SelectedIndexChanged);
             // 
             // ct_Signo
             // 
+            this.ct_Signo.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.ct_Signo.Location = new System.Drawing.Point(474, 252);
             this.ct_Signo.Name = "ct_Signo";
             this.ct_Signo.ReadOnly = true;

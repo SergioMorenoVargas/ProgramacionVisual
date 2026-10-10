@@ -1,0 +1,11 @@
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\Ejercicio7_Tema3\Ejercicio7_Tema3\bin\Debug\Ejercicio7_Tema3.exe.config
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\Ejercicio7_Tema3\Ejercicio7_Tema3\bin\Debug\Ejercicio7_Tema3.exe
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\Ejercicio7_Tema3\Ejercicio7_Tema3\bin\Debug\Ejercicio7_Tema3.pdb
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\Ejercicio7_Tema3\Ejercicio7_Tema3\obj\Debug\Ejercicio7_Tema3.csproj.AssemblyReference.cache
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\Ejercicio7_Tema3\Ejercicio7_Tema3\obj\Debug\Ejercicio7_Tema3.Form1.resources
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\Ejercicio7_Tema3\Ejercicio7_Tema3\obj\Debug\Ejercicio7_Tema3.Properties.Resources.resources
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\Ejercicio7_Tema3\Ejercicio7_Tema3\obj\Debug\Ejercicio7_Tema3.csproj.GenerateResource.cache
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\Ejercicio7_Tema3\Ejercicio7_Tema3\obj\Debug\Ejercicio7_Tema3.csproj.CoreCompileInputs.cache
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\Ejercicio7_Tema3\Ejercicio7_Tema3\obj\Debug\Ejercicio7_Tema3.exe
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\Ejercicio7_Tema3\Ejercicio7_Tema3\obj\Debug\Ejercicio7_Tema3.pdb
+C:\Users\juego\Desktop\PrograVisual\EJ_CLASE\ProgramacionVisual\Ejercicio7_Tema3\Ejercicio7_Tema3\obj\Debug\Ejercicio7_Tema3.exe.config

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juego\\Desktop\\PrograVisual\\EJ_CLASE\\ProgramacionVisual\\Ejercicio7_Tema3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14EB29D2-772E-4DE2-A857-065BF852D8BB}|Ejercicio7_Tema3\\Ejercicio7_Tema3.csproj|c:\\users\\juego\\desktop\\progravisual\\ej_clase\\programacionvisual\\ejercicio7_tema3\\ejercicio7_tema3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EB29D2-772E-4DE2-A857-065BF852D8BB}|Ejercicio7_Tema3\\Ejercicio7_Tema3.csproj|solutionrelative:ejercicio7_tema3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EB29D2-772E-4DE2-A857-065BF852D8BB}|Ejercicio7_Tema3\\Ejercicio7_Tema3.csproj|c:\\users\\juego\\desktop\\progravisual\\ej_clase\\programacionvisual\\ejercicio7_tema3\\ejercicio7_tema3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14EB29D2-772E-4DE2-A857-065BF852D8BB}|Ejercicio7_Tema3\\Ejercicio7_Tema3.csproj|solutionrelative:ejercicio7_tema3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\EJ_CLASE\\ProgramacionVisual\\Ejercicio7_Tema3\\Ejercicio7_Tema3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio7_Tema3\\Form1.cs",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\EJ_CLASE\\ProgramacionVisual\\Ejercicio7_Tema3\\Ejercicio7_Tema3\\Form1.cs",
+              "RelativeToolTip": "Ejercicio7_Tema3\\Form1.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwFMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T12:19:26.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juego\\Desktop\\PrograVisual\\EJ_CLASE\\ProgramacionVisual\\Ejercicio7_Tema3\\Ejercicio7_Tema3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio7_Tema3\\Form1.cs",
+              "ToolTip": "C:\\Users\\juego\\Desktop\\PrograVisual\\EJ_CLASE\\ProgramacionVisual\\Ejercicio7_Tema3\\Ejercicio7_Tema3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio7_Tema3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T12:15:18.378Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
